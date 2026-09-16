@@ -1,0 +1,23 @@
+{
+ "ref": "023102532003A",
+ "refDisplay": "0231 02 532003A",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "SANS REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F6Q",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F6Q",
+   "fctId": "FCT0303"
+  }
+ ]
+}

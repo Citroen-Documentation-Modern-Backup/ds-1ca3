@@ -1,0 +1,18 @@
+{
+ "ref": "023104451527A",
+ "refDisplay": "0231 04 451527A",
+ "title": "FREINS ARRIERE TAMBOUR CYLINDRE SEGMENTS",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F1Z",
+   "fctId": "FCT0041"
+  }
+ ]
+}

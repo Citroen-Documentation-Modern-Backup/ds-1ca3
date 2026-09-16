@@ -1,0 +1,18 @@
+{
+ "ref": "023106173020C",
+ "refDisplay": "0231 06 173020C",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "BASE POUR TRANSFORMATION GNV DEPUIS OPR 11797",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  }
+ ]
+}

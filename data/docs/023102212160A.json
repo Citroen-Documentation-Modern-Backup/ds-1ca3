@@ -1,0 +1,23 @@
+{
+ "ref": "023102212160A",
+ "refDisplay": "0231 02 212160A",
+ "title": "BOUGIE - BOITIER PRECHAUFFAGE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10783",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F3N",
+   "fctId": "FCT0304"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F3N",
+   "fctId": "FCT0304"
+  }
+ ]
+}

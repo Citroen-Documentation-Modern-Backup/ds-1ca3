@@ -1,0 +1,23 @@
+{
+ "ref": "023103434001A",
+ "refDisplay": "0231 03 434001A",
+ "title": "AMORTISSEURS SUSPENSION AVANT",
+ "nature": "",
+ "applicability": "SUSPENSION NORMALE OU SUSPENSION AR RENFORCEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F3S",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F3S",
+   "fctId": "FCT0028"
+  }
+ ]
+}

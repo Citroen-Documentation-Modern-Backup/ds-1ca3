@@ -1,0 +1,18 @@
+{
+ "ref": "023101322530A",
+ "refDisplay": "0231 01 322530A",
+ "title": "CONVERTISSEUR",
+ "nature": "",
+ "applicability": "BVA AL4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0016"
+  }
+ ]
+}

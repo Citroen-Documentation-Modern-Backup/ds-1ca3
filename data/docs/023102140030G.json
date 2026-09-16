@@ -1,0 +1,23 @@
+{
+ "ref": "023102140030G",
+ "refDisplay": "0231 02 140030G",
+ "title": "POMPE INJECTION SUPPORT PIGNON",
+ "nature": "",
+ "applicability": "DEPOLLUTION EURO 4(MOTEUR) ET SYSTEME INJECTION SIEMENS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F7P",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F7P",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "ref": "023108982801F",
+ "refDisplay": "0231 08 982801F",
+ "title": "GARNITURE DE PORTE LATERALE AV BATTANTE",
+ "nature": "",
+ "applicability": "TISSU REPS + VELOURS ARCY \"UJ\" OU TRESSE REPS F833 + VEL ARCY G018 \"ZF\" OU CHAINE ET TRAME ECLA + CREPO \"UW\" OU CHAINE ET TRAME LIANE + CUIR CLAUDIA \"UZ\" OU TISSU REFLEX + CREPE + TRANSAME \"KY\" OU C ET T GALAND + C ET T CREPO \"WA\"",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F3S",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F7P",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F1Z",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0FS1",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F6Q",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F9W",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F3N",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F3S",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F7P",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F6Q",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F3N",
+   "fctId": "FCT0135"
+  }
+ ]
+}

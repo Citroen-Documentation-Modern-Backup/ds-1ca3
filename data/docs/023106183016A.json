@@ -1,0 +1,18 @@
+{
+ "ref": "023106183016A",
+ "refDisplay": "0231 06 183016A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L4 INFERIEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0FS1",
+   "fctId": "FCT0011"
+  }
+ ]
+}

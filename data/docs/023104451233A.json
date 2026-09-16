@@ -1,0 +1,18 @@
+{
+ "ref": "023104451233A",
+ "refDisplay": "0231 04 451233A",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10800",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F9W",
+   "fctId": "FCT0040"
+  }
+ ]
+}

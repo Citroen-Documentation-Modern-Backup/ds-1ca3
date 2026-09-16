@@ -1,0 +1,18 @@
+{
+ "ref": "023106173015A",
+ "refDisplay": "0231 06 173015A",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "BICARBURATION GNV JUSQU’A OPR 10917",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  }
+ ]
+}

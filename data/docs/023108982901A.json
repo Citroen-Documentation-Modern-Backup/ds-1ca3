@@ -1,0 +1,73 @@
+{
+ "ref": "023108982901A",
+ "refDisplay": "0231 08 982901A",
+ "title": "GARNITURE DE PORTE LATERALE AR BATTANTE",
+ "nature": "",
+ "applicability": "TISSU TOMY \"NI\" OU TISSU SPORT \"MI\" OU TISSU REFLEX + CREPE + TRANSAME \"KY\" OU CHAINE ET TRAME ARCUS + SERKA \"KD\" OU CUIR CLAUDIA \"Q1\" OU MAIL THIEROSSI SIMAILLA F912+CREPO F773 \"AO\"",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F3S",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F7P",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F1Z",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0FS1",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F6Q",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F9W",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F3N",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F3S",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F7P",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F6Q",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F3N",
+   "fctId": "FCT0141"
+  }
+ ]
+}

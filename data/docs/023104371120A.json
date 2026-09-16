@@ -1,0 +1,18 @@
+{
+ "ref": "023104371120A",
+ "refDisplay": "0231 04 371120A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM BE4R JUSQU’A OPR 10635 OU BVM BE4R JUSQU’A OPR 10800",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F9W",
+   "fctId": "FCT0022"
+  }
+ ]
+}

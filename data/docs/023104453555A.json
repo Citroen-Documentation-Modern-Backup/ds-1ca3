@@ -1,0 +1,18 @@
+{
+ "ref": "023104453555A",
+ "refDisplay": "0231 04 453555A",
+ "title": "MAITRE CYLINDRE RESERVOIR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 10801",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F9W",
+   "fctId": "FCT0045"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "023103442565A",
+ "refDisplay": "0231 03 442565A",
+ "title": "BIELLETTES DETAIL CREMAILLERE",
+ "nature": "",
+ "applicability": "COURSE MECANISME DIRECTION 128",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F9W",
+   "fctId": "FCT0037"
+  }
+ ]
+}

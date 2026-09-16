@@ -1,0 +1,23 @@
+{
+ "ref": "023101112009A",
+ "refDisplay": "0231 01 112009A",
+ "title": "CULASSE - COUVRE CULASSE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10917 SAUF BICARBURATION GNV",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  }
+ ]
+}

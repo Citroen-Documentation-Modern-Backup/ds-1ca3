@@ -1,0 +1,23 @@
+{
+ "ref": "023101348009G",
+ "refDisplay": "0231 01 348009G",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "BASE POUR TRANSFORMATION GNV DEPUIS OPR 10918",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  }
+ ]
+}

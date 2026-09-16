@@ -1,0 +1,18 @@
+{
+ "ref": "023101334542A",
+ "refDisplay": "0231 01 334542A",
+ "title": "ENSEMBLE DE PIGNONS POUR 5 EME VITESSE",
+ "nature": "",
+ "applicability": "BVM BE4 L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F9W",
+   "fctId": "FCT0017"
+  }
+ ]
+}

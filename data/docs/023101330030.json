@@ -1,0 +1,18 @@
+{
+ "ref": "023101330030",
+ "refDisplay": "0231 01 330030",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE4R ET CP 17 X 61 ET BVM BE4 L OU BVM BE4R ET CP 17 X 61 ET BVM BE4 L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F9W",
+   "fctId": "FCT0017"
+  }
+ ]
+}

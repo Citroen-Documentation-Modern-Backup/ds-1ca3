@@ -1,0 +1,23 @@
+{
+ "ref": "023102140070K",
+ "refDisplay": "0231 02 140070K",
+ "title": "INJECTEURS - FAISCEAU INJECTION",
+ "nature": "",
+ "applicability": "DEPOLLUTION EURO 4(MOTEUR) ET SYSTEME INJECTION BOSCH",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F7P",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DAD&B0F=B0F7P",
+   "fctId": "FCT0010"
+  }
+ ]
+}

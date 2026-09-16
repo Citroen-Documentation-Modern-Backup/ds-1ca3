@@ -1,0 +1,20 @@
+{
+ "ref": "B1HGJ1K1",
+ "refDisplay": "B1HGJ1K1",
+ "title": "Dépose - repose : boîtier double doseur d’air admission ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F9W",
+   "fctId": "FCT0010"
+  }
+ ]
+}
