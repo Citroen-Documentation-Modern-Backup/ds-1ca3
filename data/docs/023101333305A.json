@@ -1,18 +1,1 @@
-{
- "ref": "023101333305A",
- "refDisplay": "0231 01 333305A",
- "title": "ENSEMBLE BLOC HYDRAULIQUE",
- "nature": "",
- "applicability": "BVA AL4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CA3",
-   "variantKey": "B0D=B0DA5&B0F=B0F6S",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"023101333305A","refDisplay":"0231 01 333305A","title":"ENSEMBLE BLOC HYDRAULIQUE","nature":"","applicability":"BVA AL4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CA3","variantKey":"B0D=B0DA5&B0F=B0F6S","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CA3)(B0F6S)(DVQ09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006417"},[]],["mpr",{"catal":"0231","grp":"610","grp2":"01","maj":"20110924","numfich":"333305A"},[["appl",{},["{(?1CA3)(B0F6S)(DVQ09)}"]],["sti",{"ident":"61001"},[]],["img",{"numfich":"00077884","path":"/img/pr/84/0007/00077884.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006417","ref":"00002570E2","refpg":"2570 E2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA3)}"]]]],["reporg",{},[["monte",{},["CD"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"232, 396, 11","shape":"circle"},[]],["area",{"coords":"206, 402, 11","shape":"circle"},[]],["area",{"coords":"224, 243, 11","shape":"circle"},[]],["area",{"coords":"64, 213, 11","shape":"circle"},[]],["area",{"coords":"185, 461, 11","shape":"circle"},[]],["area",{"coords":"112, 185, 11","shape":"circle"},[]],["area",{"coords":"160, 450, 11","shape":"circle"},[]],["area",{"coords":"356, 442, 11","shape":"circle"},[]],["area",{"coords":"33, 439, 11","shape":"circle"},[]],["area",{"coords":"104, 80, 11","shape":"circle"},[]]]]]]]]]]}
